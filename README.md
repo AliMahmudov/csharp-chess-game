@@ -36,5 +36,10 @@ The project implements chess movement and game-state logic from scratch, includi
 
 Clone the repository:
 
-```bash
+
 git clone https://github.com/AliMahmudov/csharp-chess-game.git
+Then navigate into the project directory and run:
+
+dotnet restore
+dotnet run
+
