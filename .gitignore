@@ -1,0 +1,21 @@
+# .NET build output
+**/[Bb]in/
+**/[Oo]bj/
+
+# Local IDE settings
+.vs/
+.idea/
+*.user
+*.suo
+
+# Local document output and verification tools (may contain personal information)
+/output/
+/tmp/
+/.tools/
+
+# Local secrets and operating-system files
+.env
+.env.*
+!.env.example
+Thumbs.db
+.DS_Store
